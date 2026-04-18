@@ -35,9 +35,9 @@ graph TD
 
 ## 📸 App Preview
 
-| Dashboard | Spending Insights | Transactions |
+| Transacton | Spending Insights | Dashboard |
 |---|---|---|
-| ![Dashboard](<img src="https://img.sanishtech.com/u/2e0b5abdaceeb50a025a31c2cd534925.jpeg" alt="WhatsApp Image 2026-04-18 at 11.38.55 PM (1)" loading="lazy" style="max-width:100%;height:auto;">) | ![Insights](<img src="https://img.sanishtech.com/u/c6f21930f6eccfde35417a107ae44aeb.jpeg" alt="WhatsApp Image 2026-04-18 at 11.38.55 PM" loading="lazy" style="max-width:100%;height:auto;">) | ![Transactions](<img src="https://img.sanishtech.com/u/0aac3853ca6e7640f680a267902bd76d.jpeg" alt="WhatsApp Image 2026-04-18 at 11.38.56 PM" width="737" height="1600" loading="lazy" style="max-width:100%;height:auto;">) |
+| ![Dashboard](https://img.sanishtech.com/u/67bc19f9d07dac21ce0489cd2f690a6a.jpeg) | ![Insights](https://img.sanishtech.com/u/5b5d2c02184369534702d15672132e43.jpeg) | ![Transactions](https://img.sanishtech.com/u/2678fa5f28512011c9592c01bfd26797.jpeg) |
 
 ---
 
